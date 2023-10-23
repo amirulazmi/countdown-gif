@@ -1,2 +1,6 @@
 # countdown-gif
-create countdown gif from svg files
+Create countdown gif from svg files
+
+Requirements:
+- Python 3
+- Inkscape
